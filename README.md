@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Motiche
-- 👀 I’m interested in Structural Genomics, and cancer genetics
-- 🌱 I’m currently learning Statistics, Machine Learinngm Data Science and what ever is needed to be not petrified by huge biological data
-- 💞️ I’m looking to collaborate on Cancer genomics for now!
+- 👀 I’m interested in Computational Biology, Web development and Data science
+- 🌱 I’m currently learning Web development skills, mostly front-end
 - 📫 How to reach me: drop me a line! : mot.hakimi.95@gmail.com
 
 <!---
